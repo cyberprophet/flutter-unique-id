@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - KeychainAccess (4.2.2)
+  - unique_id (1.0.0):
+    - Flutter
+    - KeychainAccess
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - unique_id (from `.symlinks/plugins/unique_id/ios`)
+
+SPEC REPOS:
+  trunk:
+    - KeychainAccess
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  unique_id:
+    :path: ".symlinks/plugins/unique_id/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: ce0a3ffa1de96d1a89ca0ac26fca7ea18a749ef4
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  unique_id: f43e9c37a9b913713722830d1b9b7a00b44a96ce
+
+PODFILE CHECKSUM: e94cfa66a7b319e7d20d750fa79815800b737aa8
+
+COCOAPODS: 1.15.2
