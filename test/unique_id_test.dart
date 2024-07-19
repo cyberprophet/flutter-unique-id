@@ -1,7 +1,7 @@
+import 'package:flutter_core_unique_id/unique_id.dart';
+import 'package:flutter_core_unique_id/unique_id_method_channel.dart';
+import 'package:flutter_core_unique_id/unique_id_platform_interface.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:unique_id/unique_id.dart';
-import 'package:unique_id/unique_id_platform_interface.dart';
-import 'package:unique_id/unique_id_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockUniqueIdPlatform
