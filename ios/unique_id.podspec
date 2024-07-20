@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'unique_id'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A new plugin for getting the Unique ID.'
   s.description      = <<-DESC
   A new Flutter plugin for getting the Unique ID.
