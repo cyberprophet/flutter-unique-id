@@ -5,17 +5,17 @@
 Pod::Spec.new do |s|
   s.name             = 'unique_id'
   s.version          = '1.0.0'
-  s.summary          = 'A new Flutter plugin project.'
+  s.summary          = 'A new plugin for getting the Unique ID.'
   s.description      = <<-DESC
-A new Flutter plugin project.
+  A new Flutter plugin for getting the Unique ID.
                        DESC
-  s.homepage         = 'http://example.com'
-  s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
-  s.source           = { :path => '.' }
+  s.homepage         = 'https://github.com/ShareAnTalk/flutter-unique-id'
+  s.license          = { :type => 'MIT', :file => '../LICENSE' }
+  s.author           = { 'ShareInvest Corp.' => 'prophet0915@gmail.com' }
+  s.source           = { :git => 'https://github.com/ShareAnTalk/flutter-unique-id.git', :tag => s.version.to_s }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.platform = :ios, '12.0'
+  s.platform = :ios, '13.0'
 
   s.dependency 'KeychainAccess'
 

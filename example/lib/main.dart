@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'dart:async';
 
+import 'package:flutter/material.dart';
 import 'package:unique_id/unique_id_platform_interface.dart';
 
 void main() => runApp(const MyApp());
