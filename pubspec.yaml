@@ -1,6 +1,6 @@
 name: flutter_core_unique_id
 description: "A new Flutter plugin for getting the Unique ID."
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/ShareAnTalk/flutter-unique-id
 issue_tracker: https://github.com/ShareAnTalk/flutter-unique-id/issues
